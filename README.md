@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @K3rMa
-- 👀 I’m interested in webdev/coding exploits for games.
+- 👀 I’m interested in 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on currently nothing
 - 📫 How to reach me ...
